@@ -1,0 +1,156 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Mappable"
+provides-nominal:
+- "P12ObjectMapper8Mappable"
+provides-member:
+- ["P12ObjectMapper8Mappable", ""]
+- ["Sa", ""]
+- ["Vs3Set", ""]
+- ["P12ObjectMapper8Mappable", "objectForMapping"]
+- ["P12ObjectMapper8Mappable", "init"]
+- ["P12ObjectMapper8Mappable", "init"]
+- ["P12ObjectMapper8Mappable", "toJSON"]
+- ["P12ObjectMapper8Mappable", "toJSONString"]
+- ["Sa", "init"]
+- ["Sa", "init"]
+- ["Sa", "toJSON"]
+- ["Sa", "toJSONString"]
+- ["Vs3Set", "init"]
+- ["Vs3Set", "init"]
+- ["Vs3Set", "toJSON"]
+- ["Vs3Set", "toJSONString"]
+provides-dynamic-lookup:
+depends-top-level:
+- "String"
+- "Array"
+- "Set"
+- !private "Mapper"
+- "Map"
+- "AnyObject"
+- "BooleanLiteralType"
+- "Bool"
+- "Mappable"
+depends-member:
+- !private ["Ps9AnyObject", "init"]
+- !private ["Ps9AnyObject", "map"]
+- !private ["Ps9AnyObject", "mapArray"]
+- !private ["Ps9AnyObject", "mapSet"]
+- !private ["Ps9AnyObject", "toJSON"]
+- !private ["Ps9AnyObject", "toJSONArray"]
+- !private ["Ps9AnyObject", "toJSONSet"]
+- !private ["Ps9AnyObject", "toJSONString"]
+- ["Sa", "AnyObject"]
+- ["Sa", "Bool"]
+- !private ["Sa", "Element"]
+- ["Sa", "Mappable"]
+- !private ["Sa", "Mapper"]
+- ["Sa", "String"]
+- !private ["Sa", "deinit"]
+- ["Sa", "init"]
+- ["Sa", "toJSON"]
+- ["Sa", "toJSONString"]
+- ["Ps23ArrayLiteralConvertible", "Mappable"]
+- !private ["Ps23ArrayLiteralConvertible", "Mapper"]
+- ["Ps14CollectionType", "Mappable"]
+- !private ["Ps14CollectionType", "Mapper"]
+- ["Ps28CustomDebugStringConvertible", "Mappable"]
+- !private ["Ps28CustomDebugStringConvertible", "Mapper"]
+- ["Ps28CustomDebugStringConvertible", "Some"]
+- ["Ps23CustomStringConvertible", "Mappable"]
+- !private ["Ps23CustomStringConvertible", "Mapper"]
+- ["Ps9Equatable", "Mappable"]
+- !private ["Ps9Equatable", "Mapper"]
+- ["Ps8Hashable", "Mappable"]
+- !private ["Ps8Hashable", "Mapper"]
+- ["Ps9Indexable", "Mappable"]
+- !private ["Ps9Indexable", "Mapper"]
+- ["P12ObjectMapper8Mappable", "AnyObject"]
+- ["P12ObjectMapper8Mappable", "Bool"]
+- ["P12ObjectMapper8Mappable", "Map"]
+- ["P12ObjectMapper8Mappable", "Mappable"]
+- !private ["P12ObjectMapper8Mappable", "Mapper"]
+- !private ["P12ObjectMapper8Mappable", "Self"]
+- ["P12ObjectMapper8Mappable", "String"]
+- ["P12ObjectMapper8Mappable", "init"]
+- ["P12ObjectMapper8Mappable", "mapping"]
+- ["P12ObjectMapper8Mappable", "objectForMapping"]
+- ["P12ObjectMapper8Mappable", "toJSON"]
+- ["P12ObjectMapper8Mappable", "toJSONString"]
+- !private ["C12ObjectMapper6Mapper", "init"]
+- !private ["C12ObjectMapper6Mapper", "map"]
+- !private ["C12ObjectMapper6Mapper", "mapArray"]
+- !private ["C12ObjectMapper6Mapper", "mapSet"]
+- !private ["C12ObjectMapper6Mapper", "toJSON"]
+- !private ["C12ObjectMapper6Mapper", "toJSONArray"]
+- !private ["C12ObjectMapper6Mapper", "toJSONSet"]
+- !private ["C12ObjectMapper6Mapper", "toJSONString"]
+- ["Ps21MutableCollectionType", "Mappable"]
+- !private ["Ps21MutableCollectionType", "Mapper"]
+- ["Ps16MutableIndexable", "Mappable"]
+- !private ["Ps16MutableIndexable", "Mapper"]
+- ["Ps16MutableSliceable", "Mappable"]
+- !private ["Ps16MutableSliceable", "Mapper"]
+- ["Ps21NilLiteralConvertible", "Some"]
+- ["Sq", "Some"]
+- ["Ps30RangeReplaceableCollectionType", "Mappable"]
+- !private ["Ps30RangeReplaceableCollectionType", "Mapper"]
+- ["Ps12SequenceType", "Mappable"]
+- !private ["Ps12SequenceType", "Mapper"]
+- ["Vs3Set", "AnyObject"]
+- ["Vs3Set", "Bool"]
+- !private ["Vs3Set", "Element"]
+- ["Vs3Set", "Mappable"]
+- !private ["Vs3Set", "Mapper"]
+- !private ["Vs3Set", "Set"]
+- ["Vs3Set", "String"]
+- !private ["Vs3Set", "deinit"]
+- ["Vs3Set", "init"]
+- ["Vs3Set", "toJSON"]
+- ["Vs3Set", "toJSONString"]
+- ["Ps10_ArrayType", "Mappable"]
+- !private ["Ps10_ArrayType", "Mapper"]
+- ["Ps24_DestructorSafeContainer", "Mappable"]
+- !private ["Ps24_DestructorSafeContainer", "Mapper"]
+- ["Ps21_ObjectiveCBridgeable", "Mappable"]
+- !private ["Ps21_ObjectiveCBridgeable", "Mapper"]
+- ["Ps12_Reflectable", "Mappable"]
+- !private ["Ps12_Reflectable", "Mapper"]
+- ["Ps12_Reflectable", "Some"]
+depends-nominal:
+- !private "Ps9AnyObject"
+- "Sa"
+- "Ps23ArrayLiteralConvertible"
+- "Ps14CollectionType"
+- "Ps28CustomDebugStringConvertible"
+- "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- "Ps8Hashable"
+- "Ps9Indexable"
+- "P12ObjectMapper8Mappable"
+- !private "C12ObjectMapper6Mapper"
+- "Ps21MutableCollectionType"
+- "Ps16MutableIndexable"
+- "Ps16MutableSliceable"
+- "Ps21NilLiteralConvertible"
+- "Sq"
+- "Ps30RangeReplaceableCollectionType"
+- "Ps12SequenceType"
+- "Vs3Set"
+- "Ps10_ArrayType"
+- "Ps24_DestructorSafeContainer"
+- "Ps21_ObjectiveCBridgeable"
+- "Ps12_Reflectable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/Swift.swiftmodule"
+- "/Users/allen/Documents/xcode  3D/CocoMRT/Pods/Target Support Files/ObjectMapper/ObjectMapper-umbrella.h"
+- "/Users/allen/Documents/xcode  3D/CocoMRT/build/Pods.build/Debug-iphonesimulator/ObjectMapper.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/CoreImage.swiftmodule"
+interface-hash: "217a6b2359468bcd5cea388f152e9bf5"

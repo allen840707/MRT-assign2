@@ -1,0 +1,19 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.1 clang-703.0.29)"
+options: "f10c07eb1b9fc93913b6f0627564ab2d"
+build_time: [516910923, 899917000]
+inputs:
+  "/Users/allen/Documents/xcode  3D/CocoMRT/Pods/ObjectMapper/ObjectMapper/Transforms/CustomDateFormatTransform.swift": [516910756, 0]
+  "/Users/allen/Documents/xcode  3D/CocoMRT/Pods/ObjectMapper/ObjectMapper/Transforms/DateFormatterTransform.swift": [516910756, 0]
+  "/Users/allen/Documents/xcode  3D/CocoMRT/Pods/ObjectMapper/ObjectMapper/Transforms/DateTransform.swift": [516910756, 0]
+  "/Users/allen/Documents/xcode  3D/CocoMRT/Pods/ObjectMapper/ObjectMapper/Transforms/EnumTransform.swift": [516910756, 0]
+  "/Users/allen/Documents/xcode  3D/CocoMRT/Pods/ObjectMapper/ObjectMapper/Core/FromJSON.swift": [516910756, 0]
+  "/Users/allen/Documents/xcode  3D/CocoMRT/Pods/ObjectMapper/ObjectMapper/Transforms/ISO8601DateTransform.swift": [516910756, 0]
+  "/Users/allen/Documents/xcode  3D/CocoMRT/Pods/ObjectMapper/ObjectMapper/Core/Map.swift": [516910756, 0]
+  "/Users/allen/Documents/xcode  3D/CocoMRT/Pods/ObjectMapper/ObjectMapper/Core/Mappable.swift": [516910756, 0]
+  "/Users/allen/Documents/xcode  3D/CocoMRT/Pods/ObjectMapper/ObjectMapper/Core/Mapper.swift": [516910756, 0]
+  "/Users/allen/Documents/xcode  3D/CocoMRT/Pods/ObjectMapper/ObjectMapper/Transforms/NSDecimalNumberTransform.swift": [516910756, 0]
+  "/Users/allen/Documents/xcode  3D/CocoMRT/Pods/ObjectMapper/ObjectMapper/Core/Operators.swift": [516910756, 0]
+  "/Users/allen/Documents/xcode  3D/CocoMRT/Pods/ObjectMapper/ObjectMapper/Core/ToJSON.swift": [516910756, 0]
+  "/Users/allen/Documents/xcode  3D/CocoMRT/Pods/ObjectMapper/ObjectMapper/Transforms/TransformOf.swift": [516910756, 0]
+  "/Users/allen/Documents/xcode  3D/CocoMRT/Pods/ObjectMapper/ObjectMapper/Transforms/TransformType.swift": [516910756, 0]
+  "/Users/allen/Documents/xcode  3D/CocoMRT/Pods/ObjectMapper/ObjectMapper/Transforms/URLTransform.swift": [516910756, 0]

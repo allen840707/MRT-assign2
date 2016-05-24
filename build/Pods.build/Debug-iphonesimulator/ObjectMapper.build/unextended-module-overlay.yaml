@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': '/Users/allen/Documents/xcode  3D/CocoMRT/build/Debug-iphonesimulator/ObjectMapper/ObjectMapper.framework/Modules'
+    'contents': [{
+      'type': 'file',
+      'name': 'module.modulemap',
+      'external-contents': '/Users/allen/Documents/xcode  3D/CocoMRT/build/Pods.build/Debug-iphonesimulator/ObjectMapper.build/unextended-module.modulemap',
+    }]
+  }]
+}

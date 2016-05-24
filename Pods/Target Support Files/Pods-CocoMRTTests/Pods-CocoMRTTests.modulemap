@@ -1,0 +1,6 @@
+framework module Pods_CocoMRTTests {
+  umbrella header "Pods-CocoMRTTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

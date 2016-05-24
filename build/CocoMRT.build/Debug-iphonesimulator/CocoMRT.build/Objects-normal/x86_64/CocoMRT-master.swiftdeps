@@ -1,0 +1,8 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.1 clang-703.0.29)"
+options: "f696052ba8693d695cb4de0255537bbb"
+build_time: [517393610, 43081000]
+inputs:
+  "/Users/allen/Documents/xcode  3D/CocoMRT/CocoMRT/FirstController.swift": [517393609, 0]
+  "/Users/allen/Documents/xcode  3D/CocoMRT/CocoMRT/AppDelegate.swift": [517331522, 0]
+  "/Users/allen/Documents/xcode  3D/CocoMRT/CocoMRT/secondViewController.swift": [517389016, 0]
+  "/Users/allen/Documents/xcode  3D/CocoMRT/CocoMRT/MRTCell.swift": [517261604, 0]
